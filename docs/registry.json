@@ -8,7 +8,7 @@
       "description": "Tensor-Field Neural Equations (TFNE) in JAX — field neural modeling and optimization.",
       "href": "https://github.com/HNXJ/jaxfne",
       "status": "live",
-      "reason": "Open-source research library on GitHub. [seal-2]",
+      "reason": "Open-source research library on GitHub.",
       "kind": "application",
       "provenance": "HNXJ/jaxfne",
       "updated": "2026-09-09",
