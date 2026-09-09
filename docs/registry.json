@@ -117,7 +117,7 @@
     {
       "id": "gallery",
       "title": "Gallery",
-      "description": "Media, figures, and visual artifacts from research projects.",
+      "description": "Media, figures, and visual artifacts from research projects. [catalog probe 2026-09-09]",
       "href": "https://hnxj.github.io/pages/gallery/",
       "status": "live",
       "reason": "Static media gallery on GitHub Pages.",
